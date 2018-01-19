@@ -11,4 +11,4 @@ chmod +x generate.js
 
 ## Note
 
-Assumes the latest version of **node*8 is installed.
+Assumes the latest version of **node** is installed.
